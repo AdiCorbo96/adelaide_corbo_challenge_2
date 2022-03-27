@@ -3,6 +3,10 @@ body {
     color: #39a6b2
 }
 
+section {
+    padding: 60px;
+}
+
 header {
     padding: 20px 35px;
     background-color: darkslategray;
@@ -42,4 +46,16 @@ header nav ul li a {
     font-size: 20px;
     color: lightblue;
     border-bottom: 3px solid;
+}
+
+.hero {
+    background-image: url(./images/hero-bg.png);
+}
+
+.hero span {
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
