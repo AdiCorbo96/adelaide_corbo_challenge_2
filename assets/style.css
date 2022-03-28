@@ -50,6 +50,7 @@ header nav ul li a {
 
 .hero {
     background-image: url(./images/hero-bg.png);
+    height: 300px;
 }
 
 .hero span {
