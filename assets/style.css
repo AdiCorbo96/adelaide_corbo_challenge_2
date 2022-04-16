@@ -2,6 +2,13 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2
 }
+a {
+    text-decoration: none;
+}
+
+.bottomBord {
+    border-bottom: 3px solid;
+}
 
 section {
     padding: 60px;
@@ -76,4 +83,9 @@ header nav ul li a {
     padding-right: 5px;
 }
 
+#contact-me {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
