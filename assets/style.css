@@ -53,6 +53,12 @@ header nav ul li a {
     height: 300px;
 }
 
+.hero h2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
 .hero span {
     background-color: lightblue;
     display: flex;
@@ -60,3 +66,4 @@ header nav ul li a {
     justify-content: flex-end;
     align-items: flex-end;
 }
+
