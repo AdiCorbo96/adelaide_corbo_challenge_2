@@ -67,3 +67,13 @@ header nav ul li a {
     align-items: flex-end;
 }
 
+.content {
+    display: flex;
+}
+
+.content h2 {
+    border-right: 5px solid;
+    padding-right: 5px;
+}
+
+
