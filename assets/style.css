@@ -6,9 +6,6 @@ a {
     text-decoration: none;
 }
 
-.bottomBord {
-    border-bottom: 3px solid;
-}
 
 section {
     padding: 60px;
@@ -89,3 +86,6 @@ header nav ul li a {
     justify-content: space-between;
 }
 
+#contact-me span {
+    border-bottom: 3px solid;
+}
